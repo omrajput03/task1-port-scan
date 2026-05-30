@@ -76,4 +76,3 @@ sudo nmap -sU --top-ports 20 192.168.142.0/24
 - `udp_scan.txt` — UDP top 20 ports scan
 - `scan_results.xml` — XML format output
 - `scan_results.html` — HTML format report
-- `screenshots/` — Terminal screenshots
